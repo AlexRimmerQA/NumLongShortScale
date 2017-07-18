@@ -6,6 +6,7 @@ import org.scalatest.{FlatSpec, Matchers}
 
 class LongShortTest extends FlatSpec with Matchers {
   val longShort = new LongShort()
+  longShort.print("123456789123456789123456")
 
   "The parsing of a number < 10^3 to short" should "return the number with short notation" in {
     longShort.parseValue("123", longShort.shortNotation) shouldBe "123"
