@@ -1,6 +1,6 @@
 
 /**
-  * Created by Administrator on 18/07/2017.
+  * Created by Alex Rimmer on 18/07/2017.
   */
 
 class LongShort {
