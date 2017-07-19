@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/numlongshortscale.iml" filepath="$PROJECT_DIR$/.idea/modules/numlongshortscale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/numlongshortscale-build.iml" filepath="$PROJECT_DIR$/.idea/modules/numlongshortscale-build.iml" />
     </modules>
   </component>
 </project>
