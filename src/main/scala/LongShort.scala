@@ -22,8 +22,11 @@ class LongShort {
     iter(number, stage)
   }
 
-  def print(number : String): Unit = {
-    Console.println("Short scale: " + parseValue(number, shortNotation))
+  def printLong(number : String): Unit = {
     Console.println("Long scale: " + parseValue(number, longNotation))
+  }
+
+  def printShort(number : String): Unit = {
+    Console.println("Short scale: " + parseValue(number, shortNotation))
   }
 }
