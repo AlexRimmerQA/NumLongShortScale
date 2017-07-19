@@ -5,5 +5,5 @@
 import org.scalatest.{FlatSpec, Matchers}
 
 class BaseTest extends FlatSpec with Matchers {
-  val longShort = new LongShort()
+  val longShort = new LongShort
 }
